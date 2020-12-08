@@ -4,7 +4,7 @@ This project is part of  React Navigation 5. Here I have used every navigator op
 
 Then I have created some extra things such as login, signup & splash screen and provided an authentication flow using AsycStorage. Also I have created form validation for the login screen.
 
-![React Navigation v5 Mix App Android Demo](https://raw.githubusercontent.com/shaiknagoor/react/master/app-interaction-demo-iphone.gif)
-![React Navigation v5 Mix App Android Demo](https://raw.githubusercontent.com/itzpradip/react-navigation-v5-mix/master/app-interaction-demo-android.gif)
 
+![React Navigation v5 Mix App Android Demo](https://raw.githubusercontent.com/shaiknagoor/react/master/app-interaction-demo-android.gif)
+### Android Demo
 
